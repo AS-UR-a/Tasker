@@ -25,3 +25,10 @@ def main(page: ft.Page):
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
     page.add(view)
 ft.run(main)
+
+
+''' 
+
+hi there!
+
+'''
